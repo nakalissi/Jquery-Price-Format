@@ -2,6 +2,7 @@
     "name": "price-format",
     "title": "jQuery Price Format",
     "description": "jQuery Price Format plugin is useful to format input text fields or any HTML element as prices.",
+    "homepage": "https://github.com/nakalissi/Jquery-Price-Format.git",
     "keywords": [
         "price",
         "money",
@@ -12,6 +13,7 @@
         "name": "Eduardo Cuducos",
         "url": "http://about.me/cuducos"
     },
+    "main": "jquery.price_format.js",
     "maintainers": [
         {
             "name": "Flavio Silveira",
@@ -26,7 +28,6 @@
         }
     ],
     "bugs": "https://github.com/flaviosilveira/Jquery-Price-Format/issues",
-    "homepage": "https://jquerypriceformat.com",
     "docs": "https://jquerypriceformat.com",
     "download": "https://jquerypriceformat.com",
     "dependencies": {
